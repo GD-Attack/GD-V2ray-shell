@@ -33,3 +33,12 @@ GD-V2ray-shell，通过shell脚本部署VPN节点
 ```bash
 cd /root
 # 确保 v2ray.sh, v2ray_xray.sh, v2ray_clash.sh 三个脚本都在该目录下
+
+
+chmod +x v2ray.sh v2ray_xray.sh v2ray_clash.sh
+./v2ray.sh
+
+==========================================
+Clash 订阅地址: http://<你的服务器IP>/clash.yaml
+==========================================
+
