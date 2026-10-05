@@ -34,7 +34,9 @@ GD-V2ray-shell，通过shell脚本部署VPN节点
 cd /root
 # 确保 v2ray.sh, v2ray_xray.sh, v2ray_clash.sh 三个脚本都在该目录下
 
+### 1.运行脚本文件
 
+```bash
 chmod +x v2ray.sh v2ray_xray.sh v2ray_clash.sh
 ./v2ray.sh
 
