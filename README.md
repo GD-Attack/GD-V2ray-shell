@@ -28,7 +28,7 @@ GD-V2ray-shell，通过shell脚本部署VPN节点
 
 ## 🚀 快速使用指南
 
-### 1. 克隆/下载本仓库文件
+### 使用说明
 
 ```bash
 cd /root
