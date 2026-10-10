@@ -1,9 +1,12 @@
 # GD-V2ray-shell-Yum
+## 开发者：xian xichun
+
 GD-V2ray-shell-Yum，通过shell脚本部署VPN节点
 使用时，需要将三个脚本移动到/root文件夹下，将v2ray.sh赋予x可执行权限，然后执行v2ray.sh文件即可部署
 
 
 # Xray & Clash 一键自动化部署脚本
+
 
 这是一个用于在 Linux (CentOS / Rocky Linux / RHEL 系列) 上一键部署 Xray (VLESS-REALITY / VMess) 服务并自动生成 Clash 订阅配置文件的 Bash 脚本套件。
 
